@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <ImageButton
+
+        app:srcCompat="@drawable/garbage2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/deleteee"
+        android:background="@android:color/transparent"
+
+        android:layout_marginTop="60dp"
+        android:layout_alignParentRight="true"
+    />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/back2"
+        android:background="@android:color/transparent"
+        android:id="@+id/moinnn"
+        android:layout_marginTop="60dp"
+     />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Enter Name"
+        android:id="@+id/product"
+        android:textSize="30dp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="21$"
+        android:id="@+id/pricee"
+        android:textSize="21dp"
+        android:layout_marginTop="8dp"
+
+        android:layout_alignParentRight="true"
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="10"
+        android:id="@+id/qteTV"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="60dp"
+
+/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/next2"
+        android:id="@+id/plusss"
+        android:background="@android:color/transparent"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="60dp"
+
+ />
+
+
+</RelativeLayout>

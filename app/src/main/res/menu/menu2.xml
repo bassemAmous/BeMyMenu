@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_refresh"
+        android:title="Refresh"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/panier"
+        android:title="Carts"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="about"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        app:showAsAction="collapseActionView"/>
+
+
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#455a64</color>
+    <color name="colorAccent">#ffab40</color>
+
+    <color name="theme1_background">#82ceca</color>
+    <color name="theme1_cellColor">#e6bad1</color>
+    <color name="theme1_drawerColor">#fce0c8</color>
+
+    <color name="theme2_background">#bbd8fa</color>
+    <color name="theme2_cellColor">#dfc3fd</color>
+    <color name="theme2_drawerColor">#fcf8d3</color>
+
+    <color name="theme3_background">#d1e8ee</color>
+    <color name="theme3_cellColor">#ffeacb</color>
+    <color name="theme3_drawerColor">#badffa</color>
+
+
+    <color name="template1_theme1_drawerColor">#d0ad10</color>
+    <color name="template1_theme2_drawerColor">#195c55</color>
+    <color name="template1_theme3_drawerColor">#53a298</color>
+
+
+
+
+    }
+</resources>

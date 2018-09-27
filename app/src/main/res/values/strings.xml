@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BeMyMenuApp</string>
+    <string name="drawer_open">openeed</string>
+    <string name="drawer_close">closeeed</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Partner !</string>
+    <string name="slide_1_desc">You have a restaurant , a coffee shop  or a bar ?</string>
+
+    <string name="slide_2_title">You are in the right place</string>
+    <string name="slide_2_desc">Be My Menu App is The easiest create your custom Menu Card ! </string>
+
+    <string name="slide_3_title">How It Works ?</string>
+    <string name="slide_3_desc">Just suscribe in our web site http://bmma.detect.tn/user/login </string>
+
+    <string name="slide_4_title">Finally</string>
+    <string name="slide_4_desc">Choose your favorite template for your app and then add your categories with their products
+    and check the result in your app
+    </string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
